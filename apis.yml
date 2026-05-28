@@ -1,0 +1,32 @@
+aid: aletheia
+name: Aletheia
+description: "Insider trading data, earnings call analysis, financial statements, and more"
+url: https://aletheiaapi.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: Aletheia
+    description: "Insider trading data, earnings call analysis, financial statements, and more"
+    humanURL: https://aletheiaapi.com/
+    baseURL: https://aletheiaapi.com/
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://aletheiaapi.com/
+common:
+  - type: Website
+    url: https://aletheiaapi.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
