@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://aletheiaapi.com/
 common:
+  - type: DomainSecurity
+    url: security/aletheia-domain-security.yml
   - type: Website
     url: https://aletheiaapi.com/
   - type: PublicAPIsListing
