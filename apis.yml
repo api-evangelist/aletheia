@@ -39,7 +39,6 @@ apis:
   - name: Aletheia
     description: "Insider trading data, earnings call analysis, financial statements, and more"
     humanURL: https://aletheiaapi.com/
-    baseURL: https://aletheiaapi.com/
     tags:
       - Finance
     properties:
